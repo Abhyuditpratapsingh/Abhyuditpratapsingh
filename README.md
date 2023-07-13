@@ -1,11 +1,17 @@
-[![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
+[![MasterHead](https://camo.githubusercontent.com/a6d7956078652e4b72bb5b831d71489ee23be96014eedbe6f6dc02ee49627a9a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3730302f302a304f356e397836707a6c4a35714c6b432e676966)
+<h1 align="center">Hi 👋, I'm Abhyudit Pratap Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg?size=626&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhyuditpratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="abhyuditpratapsingh" /> </p>
 
+- 📫 How to reach me **abhyuditpsingh1903@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abhyudit pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhyudit pratap singh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/abhyudit pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhyudit pratap singh" height="30" width="40" /></a>
+<a href="https://instagram.com/abhyudit19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhyudit19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhyuditpratapsingh&show_icons=true&locale=en" alt="abhyuditpratapsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhyuditpratapsingh&" alt="abhyuditpratapsingh" /></p>
-
